@@ -257,7 +257,7 @@ padding: 80px 5%;
     color: #2563EB;
     border: 1px solid #2563EB;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 15px;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -268,7 +268,7 @@ padding: 80px 5%;
     color: white;
     border: 1px solid #2563EB;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 15px;
     border-radius: 5px;
      cursor: pointer;
 }
@@ -279,7 +279,7 @@ padding: 80px 5%;
     color: rgba(0, 0, 0, 0.842);
     border: 1px solid rgba(0, 0, 0, 0.842);
     font-weight: bold;
-    font-size: 10px;
+    font-size: 15px;
     border-radius: 5px;
      cursor: pointer;
 }
