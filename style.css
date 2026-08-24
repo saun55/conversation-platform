@@ -40,6 +40,9 @@ font-weight: bold;
 font-size: 15px;
 cursor: pointer;
 }
+.common-button:hover{
+    transform: translate(5px,2.5px);
+}
 /* header end */
 
 .nav-menu{
@@ -94,6 +97,7 @@ gap: 20px;
 }
 .speakers-container{
     max-width: 1200px;
+    
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -103,6 +107,9 @@ gap: 20px;
     border: 1px solid rgba(91, 91, 91, 0.185);
     border-radius:12px ;
 }
+/* .speakers-img:hover{
+    transform: translate(5px,5px) ;
+} */
 .speakers-img img{
     width: 100%;
     height: 260px;
@@ -139,10 +146,11 @@ font-size: 8px;color:#575757a3;
 
 
 
-}
+
 
 .spot-card{
 padding: 80px 5%;
+
 }
 .spot-card-h1{
     text-align: center;
@@ -160,29 +168,35 @@ padding: 80px 5%;
 .spot-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
+    gap: 20px;
+  
 }
 .spot-container div{
     border: 1px solid #85838334;
     padding: 35px;
     border-radius: 10px;
+    height: 350px;
+
 }
+.spot-container div:hover{transform: translate(5px,5px);}
 .spot-card-menu-mit{
     border: 1px solid #85838334;
     padding: 35px;
     border-radius: 10px;
     background-color: #0D1B2A;
+
 }
+
 .spot-card-menu-mit span{ color:#575757a9 ;
     font-weight: bold;
-    font-size: 8px;
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     color: #93C5FD;
 
 }
 .spot-card-menu span{ color:#575757a9 ;
     font-weight: bold;
-    font-size: 8px;
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
 
 }
@@ -195,13 +209,13 @@ padding: 80px 5%;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
-.spot-card-menu p{font-size: 10px;
+.spot-card-menu p{font-size: 15px;
     
      color:#575757a9;
      margin-bottom: 12px;
 
 }
-.spot-card-menu-mit p{font-size: 10px;
+.spot-card-menu-mit p{font-size: 15px;
     font-weight: bold;
      color:#ffffff53;
      margin-bottom: 12px;
@@ -226,15 +240,15 @@ padding: 80px 5%;
     list-style-position: inside;color:#333333;
     font-weight: 700px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 8px;
-    margin-bottom: 5px;
+    font-size: 18px;
+    margin-bottom: 15px;
 }
 .spot-card-menu-mit ul li{
     list-style-position: inside;color:#ffffff9d;
     font-weight: 700px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 8px;
-    margin-bottom: 5px;
+    font-size: 18px;
+    margin-bottom: 15px;
 }
 .common-button-spot{
     padding: 8px;
