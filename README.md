@@ -1,51 +1,68 @@
-# PROMPTS
+# 💬 Conversation Platform
 
-## Prompt 01 — Project Setup
+A modern and responsive conversation platform designed to provide a clean and user-friendly communication experience.
 
-Create a modern and responsive developer conference landing page using HTML5 and CSS3. The website should have a professional developer-focused design and include a header, hero section, speakers section, pricing section, event schedule, and footer.
+## 🚀 Live Demo
 
-## Prompt 02 — Header & Navigation
+ 🌐 [Live Demo](https://saun55.github.io/conversation-platform/)
 
-Create a responsive header for the developer conference website. Include a logo, navigation links for Speakers, Schedule, Tracks, Venue, and Blog, along with a "Register Now" button.
+## 📖 About The Project
 
-## Prompt 03 — Hero Section
+**Conversation Platform** is a modern web project focused on creating a clean, responsive, and user-friendly conversation experience.
 
-Create a professional hero section with the conference title "Code. Connect. Create", a short description, event date, location, and a call-to-action button.
+The project provides a simple interface with a professional layout and responsive design for different screen sizes.
 
-## Prompt 04 — Speakers Section
+## ✨ Main Features
 
-Create a speakers section containing professional speaker cards. Each card should include the speaker's image, name, job title, company, and a short description.
+* Responsive navigation bar
+* Modern and clean user interface
+* Responsive layout
+* User-friendly design
+* Conversation-focused interface
+* Interactive buttons and links
+* Responsive design for different devices
+* Clean and structured HTML
+* Custom CSS styling
 
-## Prompt 05 — Pricing Section
+## 🛠️ Technologies Used
 
-Create a pricing section with three pricing plans:
+* HTML5
+* CSS3
+* Font Awesome
 
-* Standard
-* Pro
-* Team
+## 📂 Project Structure
 
-Each pricing card should display the price, features, and a registration button. Highlight the Pro plan as the recommended option.
+```text
+conversation-platform/
+│
+├── img/
+│   ├── banner.jpg
+│   └── ...
+│
+├── index.html
+├── style.css
+└── README.md
+```
 
-## Prompt 06 — Event Schedule
+## 🚀 How to Run Locally
 
-Create an event schedule section using a responsive table. Include the session time, session title, speaker, and track/category.
+### Clone the repository
 
-## Prompt 07 — Footer
+```bash
+git clone https://github.com/saun55/conversation-platform.git
+```
 
-Create a professional footer containing quick navigation links, contact information, social media icons, and copyright information.
+### Go to the project directory
 
-## Prompt 08 — Responsive Design
+```bash
+cd conversation-platform
+```
 
-Make the complete website responsive for mobile, tablet, and desktop screen sizes. Ensure that navigation, cards, tables, images, buttons, and sections adapt properly to different screen sizes.
+### Run the project
 
-## Prompt 09 — UI Improvements
+Open the `index.html` file in your browser.
 
-Improve the overall visual appearance of the website by adding proper spacing, typography, colors, hover effects, borders, shadows, and consistent alignment while maintaining a clean and professional developer-conference theme.
-
-## Prompt 10 — Final Review
-
-Review the complete project for HTML semantic structure, responsive behavior, accessibility, image alt text, consistent styling, broken links, and overall code quality. Apply the necessary improvements while keeping the main design concept unchanged.
-
+You can also use the **Live Server** extension in VS Code.
 
 ## 📸 Screenshot
 
