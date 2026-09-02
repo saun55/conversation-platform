@@ -46,6 +46,31 @@ Improve the overall visual appearance of the website by adding proper spacing, t
 
 Review the complete project for HTML semantic structure, responsive behavior, accessibility, image alt text, consistent styling, broken links, and overall code quality. Apply the necessary improvements while keeping the main design concept unchanged.
 
-## 🚀 Live Demo
 
-[🔗 View Live Project](https://saun55.github.io/conversation-platform/)
+## 📸 Screenshot
+
+Add your project screenshot here:
+
+```md
+![conversation-platform Screenshot](./img/screenshot.png)
+```
+
+## 🔗 Relevant Links
+
+* 🌐 [Live Demo](https://saun55.github.io/conversation-platform/)
+* 💻 [GitHub Repository](https://github.com/saun55/conversation-platform)
+
+## 👨‍💻 Author
+
+### Saun
+
+* GitHub: https://github.com/saun55
+* LinkedIn: https://linkedin.com/in/shawonahmmed
+* Email: [saunahmmed700@gmail.com](mailto:saunahmmed700@gmail.com)
+
+## 📄 License
+
+This project was created for learning and portfolio purposes.
+
+© 2026 PixelForge Studio. All Rights Reserved.
+
