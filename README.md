@@ -45,4 +45,7 @@ Improve the overall visual appearance of the website by adding proper spacing, t
 ## Prompt 10 — Final Review
 
 Review the complete project for HTML semantic structure, responsive behavior, accessibility, image alt text, consistent styling, broken links, and overall code quality. Apply the necessary improvements while keeping the main design concept unchanged.
-**Live URL:** [Live Site]([https://yourdomain.com/](https://saun55.github.io/conversation-platform/))
+
+## 🚀 Live Demo
+
+[🔗 View Live Project](https://saun55.github.io/conversation-platform/)
