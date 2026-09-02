@@ -85,9 +85,3 @@ Add your project screenshot here:
 * LinkedIn: https://linkedin.com/in/shawonahmmed
 * Email: [saunahmmed700@gmail.com](mailto:saunahmmed700@gmail.com)
 
-## 📄 License
-
-This project was created for learning and portfolio purposes.
-
-© 2026 PixelForge Studio. All Rights Reserved.
-
