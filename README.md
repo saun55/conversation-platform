@@ -4,7 +4,7 @@ A modern and responsive conversation platform designed to provide a clean and us
 
 ## 🚀 Live Demo
 
- 🌐 [Live Demo](https://saun55.github.io/conversation-platform/)
+🌐 [Live Demo](https://saun55.github.io/conversation-platform/)
 
 ## 📖 About The Project
 
@@ -23,6 +23,9 @@ The project provides a simple interface with a professional layout and responsiv
 * Responsive design for different devices
 * Clean and structured HTML
 * Custom CSS styling
+* Meet the Speakers section
+* Event Schedule section
+* Secure Your Spot section
 
 ## 🛠️ Technologies Used
 
@@ -77,6 +80,59 @@ Add your project screenshot here:
 * 🌐 [Live Demo](https://saun55.github.io/conversation-platform/)
 * 💻 [GitHub Repository](https://github.com/saun55/conversation-platform)
 
+## 🎤 Meet the Speakers
+
+[andrej](https://saun55.github.io/conversation-platform/images/andrej.png)
+
+**AI / ML**
+
+### Andrej Karpathy
+
+**Pretraining team, Anthropic**
+
+[demis](https://saun55.github.io/conversation-platform/images/demis.png)
+
+**CLOUD & DEVOPS**
+
+### Demis Hassabis
+
+**Co-Founder and CEO, Google DeepMind**
+
+[gary](https://saun55.github.io/conversation-platform/images/gary.png)
+
+**FRONTENO**
+
+### Gary Marcus
+
+**Staff Engineer, Vercel**
+
+[mustafa](https://saun55.github.io/conversation-platform/images/mustafa.png)
+
+**SECURITY**
+
+### Mustafa Suleyman
+
+**CEO of Microsoft AI**
+
+## 📅 Event Schedule
+
+| Time     | Event                  |
+| -------- | ---------------------- |
+| 09:00 AM | Registration           |
+| 10:00 AM | Opening Session        |
+| 11:00 AM | AI / ML Session        |
+| 12:00 PM | Cloud & DevOps Session |
+| 01:00 PM | Lunch & Networking     |
+| 02:00 PM | Frontend Session       |
+| 03:00 PM | Security Session       |
+| 04:00 PM | Closing Session        |
+
+## 🎟️ Secure Your Spot
+
+Don't miss the opportunity to join the event and connect with industry experts.
+
+[🌐 Secure Your Spot](https://saun55.github.io/conversation-platform/)
+
 ## 👨‍💻 Author
 
 ### Saun
@@ -84,4 +140,3 @@ Add your project screenshot here:
 * GitHub: https://github.com/saun55
 * LinkedIn: https://linkedin.com/in/shawonahmmed
 * Email: [saunahmmed700@gmail.com](mailto:saunahmmed700@gmail.com)
-
